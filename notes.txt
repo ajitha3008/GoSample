@@ -15,4 +15,17 @@ updating all the third-party packages:
 dep command installation:
 curl https://raw.githubusercontent.com/golang/dep/master/install.sh
 
+go does not have inheritance
+
+no method overriding/virtual in go
+
+go supports interfaces
+
+CSP - communicating sequential processes
+
+GoRoutines is managed by go runtime while threads are managed by OS. So GoRoutines are faster than threads.
+
+channels help to transfer the data from one GoRoutines to another
+
+Golang does not automatically maintain go routines... so we need to manually end them
 
