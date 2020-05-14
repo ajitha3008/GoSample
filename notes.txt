@@ -1,0 +1,18 @@
+Two types of scopes:
+-Package visible 
+-Public
+
+public => capitalise the first letter of the fucntion name
+
+same with variable names
+
+cyclic dependency not allowed
+
+to get github package in local source directory. ex=> go get github.com/rylans/getlang
+
+updating all the third-party packages:
+
+dep command installation:
+curl https://raw.githubusercontent.com/golang/dep/master/install.sh
+
+
